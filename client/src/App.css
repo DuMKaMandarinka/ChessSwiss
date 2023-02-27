@@ -1,0 +1,14 @@
+body > #root > div {
+  height: 100vh;
+}
+.line{
+  border-bottom: 1px solid #f00;
+}
+
+.games{
+  display: flex;
+}
+
+.radio-buttons{
+  align-self: center;
+}
